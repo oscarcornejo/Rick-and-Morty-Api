@@ -1,0 +1,12 @@
+.navbar {
+  margin-bottom: 5rem;
+  background-color: #f3f3f3;
+  padding: 20px 35px;
+
+  &__brand {
+    color: #353535;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+  }
+}

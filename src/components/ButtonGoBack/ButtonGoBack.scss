@@ -1,0 +1,16 @@
+.go-back {
+  background-color: #e94c88;
+  outline: none;
+  border: none;
+  border-radius: 6px;
+  padding: 10px 20px;
+  width: 125px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.5s ease-out;
+
+  &:hover {
+    background-color: #ffc531;
+  }
+}
